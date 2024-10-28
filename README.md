@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dempsey845
-- 👀 I’m interested in Pc Building and Programming
-- 🌱 I’m currently learning Python and Circuit Board Repair
+- 👀 I’m interested in PC Building and Programming
+- 🌱 I’m currently learning Python, Web Development and Phone Repair
 - 📫 How to reach me - dempseynewton1@gmail.com
 
 <!---
