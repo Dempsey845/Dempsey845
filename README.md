@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Dempsey845
 - 👀 I’m interested in PC Building and Programming
-- 🌱 I’m currently learning Front End & Back End Web Development
 - 📫 How to reach me - dempseynewton1@gmail.com
 
 Skilled in:
 - HTML, CSS & JS
-- REACT, POSTGRESQL
+- REACT, SQL
 - C++, C#
 - Python, GDScript, LUA
 
