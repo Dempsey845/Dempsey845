@@ -44,10 +44,5 @@ Hi, I'm Dempsey — a self-taught full stack developer passionate about building
 ## ⚡ Fun Facts
 
 - 🖥 I flip and build PCs in my free time
-- ⚡ I’m into electronics and gym workouts
 
 ---
-
-### 📫 Connect With Me
-
-I'm always open to collaboration or feedback on my projects. Feel free to explore my repos or reach out!
