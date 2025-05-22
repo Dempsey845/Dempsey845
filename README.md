@@ -4,7 +4,7 @@ Hi, I'm Dempsey — a self-taught full stack developer passionate about building
 
 ## 🚀 Current Projects
 
-- **💰 Click To Flip**  
+- **💰 Click To Flip [(https://click-to-flip.vercel)](https://click-to-flip.vercel.app/)**  
   A custom PC flipping tracker that helps users build, manage, and analyse profit from PC builds.  
   🔧 *React + Bootstrap frontend (Vercel)*  
   🔙 *Express + PostgreSQL backend (Railway)*  
