@@ -6,7 +6,7 @@ Hi, I'm Dempsey — a self-taught full stack developer passionate about building
 
 - **💰 Click To Flip**  
   A custom PC flipping tracker that helps users build, manage, and analyse profit from PC builds.  
-  🔧 *React + Tailwind CSS frontend (Vercel)*  
+  🔧 *React + Bootstrap frontend (Vercel)*  
   🔙 *Express + PostgreSQL backend (Railway)*  
   ☁️ *Firebase for image storage*
 
