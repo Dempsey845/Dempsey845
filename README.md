@@ -10,7 +10,7 @@ Hi, I'm Dempsey — a self-taught full stack developer passionate about building
   🔙 *Express + PostgreSQL backend (Railway)*  
   ☁️ *Firebase for image storage*
 
-- **🔮 Tarot Booking Website (private repo)**  
+- **🔮 Tarot Booking Website (private repo) [(https://clearvisiontarotreading.com)]**
   A modern website for my mum’s tarot reading business, featuring a clean booking experience.  
   👩‍💻 Built with React, Tailwind CSS, Firebase Auth + Firestore  
   🔐 Admin dashboard
