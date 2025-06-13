@@ -44,5 +44,6 @@ Hi, I'm Dempsey — a self-taught full stack developer passionate about building
 ## ⚡ Fun Facts
 
 - 🖥 I flip and build PCs in my free time
+- 🎮 Also I develop games in Unity in my free time
 
 ---
