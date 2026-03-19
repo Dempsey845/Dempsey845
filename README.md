@@ -65,7 +65,7 @@ https://pypi.org/project/cogworks/
 
 ### Game Jam Projects
 
-I've taken park of multiple game jam events go check out some of them here:
+I've taken part of multiple game jam events go check out some of them here:
 https://dempsey845.itch.io/
 
 ---
