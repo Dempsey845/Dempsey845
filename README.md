@@ -1,13 +1,13 @@
 # 👋 Dempsey Newton
 
-### Game Developer | Web Developer
+### Games and Web Developer
 
 I’m a self-taught developer focused on **game development** and **modern web applications**.
 I enjoy building systems from scratch, solving technical problems, and shipping real projects.
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 * **C++**
 * **C#**
@@ -16,7 +16,7 @@ I enjoy building systems from scratch, solving technical problems, and shipping 
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 Currently working with:
 
@@ -32,7 +32,7 @@ Focus areas:
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 Working with:
 
@@ -49,21 +49,28 @@ Focus areas:
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔮 Clear Vision Tarot Reading
+### Clear Vision Tarot Reading
 
 Live website built for a real client.
 [https://www.clearvisiontarotreading.com/](https://www.clearvisiontarotreading.com/)
 
-### 🛠 Cog Works Engine Docs
+### Cog Works Engine + Docs
 
 Documentation site for a custom python game engine project.
 [https://cog-works-engine-docs.vercel.app/](https://cog-works-engine-docs.vercel.app/)
 
+https://pypi.org/project/cogworks/
+
+### Game Jam Projects
+
+I've taken park of multiple game jam events go check out some of them here:
+https://dempsey845.itch.io/
+
 ---
 
-## 📫 About Me
+## About Me
 
 * Self-taught developer
 * Strong interest in low-level systems and game architecture
